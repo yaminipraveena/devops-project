@@ -1,0 +1,25 @@
+    1  sudo apt-get install openssh-server
+    2  pwd
+    3  uname -a
+    4  mkdir data
+    5  cd data
+    6  vi hello.txt
+    7  sudo apt-get install vim
+    8  vim hello.txt
+    9  whoami
+   10  pwd
+   11  mkdir hello.txt
+   12  vi hello.txt/
+   13  vi hello.txt
+   14  cat hello.txt
+   15  cd ..
+   16  ls
+   17  cd yamini
+   18  ls
+   19  rm hello.txt
+   20  rm -rf hello.txt
+   21  ls
+   22  cd data
+   23  ls
+   24  vi Hello.py
+   25  history >> history.txt
